@@ -81,11 +81,13 @@ As with previous steps, score ≥0.05 was defined as Positive, score ≤-0.05 wa
 ## Results
 We were looking for some practically relevant output from this project and this is what we found. 
 
-![1](https://user-images.githubusercontent.com/63241474/167245040-cf5ec213-81b7-4592-9fbb-65a7482e1b65.png)
+![1](https://user-images.githubusercontent.com/63241474/167245200-3286627d-769e-4e96-b3e8-270b6d9a416c.png)
 
-![2](https://user-images.githubusercontent.com/63241474/167245047-d2399b66-e88c-40d4-8395-2c391956d2f2.png)
+![2](https://user-images.githubusercontent.com/63241474/167245201-92fa8834-0180-45da-8872-b417c22c2fd2.png)
 
-![3](https://user-images.githubusercontent.com/63241474/167245077-b1d706cb-8d56-4112-a49c-1db8234043b3.png)
+![3](https://user-images.githubusercontent.com/63241474/167245203-ed00d691-371b-49e0-9c07-3d418ce310d7.png)
+
+
 
 ## Conclusion/Findings
 Our limited analysis indicates that the proportion of positive sentiments (51.4%) is  greater that of negative sentiments (18.7%). This suggests that the general sentiment towards COVID-19 vaccine at the point of analysis tends to be on a positive side which indicates that people were willing to get vaccinated.
