@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets?resource=down
 ## Results
 We were looking for some practically relevant output from this project and this is what we found. 
 
-![1](https://user-images.githubusercontent.com/63241474/167245200-3286627d-769e-4e96-b3e8-270b6d9a416c.png | width=100)
+![1](https://user-images.githubusercontent.com/63241474/167245200-3286627d-769e-4e96-b3e8-270b6d9a416c.png | width=100px)
 
 ![2](https://user-images.githubusercontent.com/63241474/167245201-92fa8834-0180-45da-8872-b417c22c2fd2.png | width=100)
 
