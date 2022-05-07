@@ -5,7 +5,7 @@ To analyze the common sentiments/views on effects & progress of COVID vaccinatio
 
 
 ## Methodology
-Our main objective is to analyze the Tweets regarding Covid 19 vaccines and classify them as positive, neutral and negative. We have used two methods namely Sentiment analysis using Textblob and Sentiment analysis using NLTK Vader. Then we combined the two methods and did the composite sentiment analysis with the ensemble method. Our methods for the analysis of Covid-19 vaccine tweets involve four significant steps :-
+Our main objective is to analyze the Tweets regarding Covid 19 vaccines and classify them as positive, neutral and negative. We have used two methods namely Sentiment analysis using Textblob and Sentiment analysis using NLTK Vader. Then we combined the two methods and did the composite sentiment analysis with the ensemble method.
 
 
 ## Data Collection
